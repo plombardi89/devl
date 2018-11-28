@@ -1,0 +1,7 @@
+# --- Intellij IDEA ---
+.idea
+
+# --- Terraform ---
+*.tfstate*
+.terraform
+tfplan
